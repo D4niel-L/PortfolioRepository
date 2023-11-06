@@ -1,0 +1,15 @@
+Hostname: serverb
+IPv4: 10.0.0.83
+Server Type: Ubuntu 22.04.3 LTS
+Open Ports
+Open Port: 127.0.0.1:6012
+Open Port: 127.0.0.1:6011
+Open Port: 127.0.0.1:6010
+Open Port: 0.0.0.0:22
+Open Port: 127.0.0.53:53
+Open Port: ::1:6012
+Open Port: ::1:6011
+Open Port: ::1:6010
+Open Port: :::22
+Firewall Status
+Status: inactive
