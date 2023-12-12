@@ -1,0 +1,565 @@
+Dec 10 04:35:02 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:55 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:35:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:36:06 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:22 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:41:05 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:35:02 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:55 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:35:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:36:06 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:22 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:41:05 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera polkitd[680]: Unregistered Authentication Agent for unix-process:18814:26710286 (system bus name :1.1605, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:02 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:55 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:35:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:36:06 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:22 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:41:05 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera polkitd[680]: Unregistered Authentication Agent for unix-process:18814:26710286 (system bus name :1.1605, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:57 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:18 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:26 servera sshd[18493]: Received disconnect from 10.0.0.225 port 50564:11: disconnected by user
+Dec 11 01:27:26 servera sshd[18493]: Disconnected from 10.0.0.225 port 50564
+Dec 11 01:27:26 servera sshd[18489]: pam_unix(sshd:session): session closed for user dlara
+Dec 11 01:27:30 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:52 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:56 servera unix_chkpwd[19135]: password check failed for user (dlara)
+Dec 11 01:27:56 servera sshd[19133]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:27:59 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:00 servera unix_chkpwd[19136]: password check failed for user (dlara)
+Dec 11 01:28:02 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:03 servera unix_chkpwd[19137]: password check failed for user (dlara)
+Dec 11 01:28:05 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:05 servera sshd[19133]: Connection reset by 10.0.0.225 port 50599 [preauth]
+Dec 11 01:28:05 servera sshd[19133]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:28:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:14 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:02 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:55 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:35:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:36:06 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:22 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:41:05 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera polkitd[680]: Unregistered Authentication Agent for unix-process:18814:26710286 (system bus name :1.1605, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:57 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:18 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:26 servera sshd[18493]: Received disconnect from 10.0.0.225 port 50564:11: disconnected by user
+Dec 11 01:27:26 servera sshd[18493]: Disconnected from 10.0.0.225 port 50564
+Dec 11 01:27:26 servera sshd[18489]: pam_unix(sshd:session): session closed for user dlara
+Dec 11 01:27:30 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:52 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:56 servera unix_chkpwd[19135]: password check failed for user (dlara)
+Dec 11 01:27:56 servera sshd[19133]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:27:59 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:00 servera unix_chkpwd[19136]: password check failed for user (dlara)
+Dec 11 01:28:02 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:03 servera unix_chkpwd[19137]: password check failed for user (dlara)
+Dec 11 01:28:05 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:05 servera sshd[19133]: Connection reset by 10.0.0.225 port 50599 [preauth]
+Dec 11 01:28:05 servera sshd[19133]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:28:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:14 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:02 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:55 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:35:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:36:06 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:22 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:41:05 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera polkitd[680]: Unregistered Authentication Agent for unix-process:18814:26710286 (system bus name :1.1605, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:57 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:18 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:26 servera sshd[18493]: Received disconnect from 10.0.0.225 port 50564:11: disconnected by user
+Dec 11 01:27:26 servera sshd[18493]: Disconnected from 10.0.0.225 port 50564
+Dec 11 01:27:26 servera sshd[18489]: pam_unix(sshd:session): session closed for user dlara
+Dec 11 01:27:30 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:52 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:56 servera unix_chkpwd[19135]: password check failed for user (dlara)
+Dec 11 01:27:56 servera sshd[19133]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:27:59 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:00 servera unix_chkpwd[19136]: password check failed for user (dlara)
+Dec 11 01:28:02 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:03 servera unix_chkpwd[19137]: password check failed for user (dlara)
+Dec 11 01:28:05 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:05 servera sshd[19133]: Connection reset by 10.0.0.225 port 50599 [preauth]
+Dec 11 01:28:05 servera sshd[19133]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:28:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:14 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:02 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:55 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:35:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:36:06 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:22 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:41:05 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera polkitd[680]: Unregistered Authentication Agent for unix-process:18814:26710286 (system bus name :1.1605, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:57 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:18 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:26 servera sshd[18493]: Received disconnect from 10.0.0.225 port 50564:11: disconnected by user
+Dec 11 01:27:26 servera sshd[18493]: Disconnected from 10.0.0.225 port 50564
+Dec 11 01:27:26 servera sshd[18489]: pam_unix(sshd:session): session closed for user dlara
+Dec 11 01:27:30 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:52 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:56 servera unix_chkpwd[19135]: password check failed for user (dlara)
+Dec 11 01:27:56 servera sshd[19133]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:27:59 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:00 servera unix_chkpwd[19136]: password check failed for user (dlara)
+Dec 11 01:28:02 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:03 servera unix_chkpwd[19137]: password check failed for user (dlara)
+Dec 11 01:28:05 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:05 servera sshd[19133]: Connection reset by 10.0.0.225 port 50599 [preauth]
+Dec 11 01:28:05 servera sshd[19133]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:28:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:14 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:51:05 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:51:21 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:51:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:52:46 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:53:09 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:53:14 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:53:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:54:07 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:54:07 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:55:00 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:55:00 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:55:08 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:55:08 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:55:29 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:55:29 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:56:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:56:58 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:57:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:57:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:57:18 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:57:18 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:57:26 servera unix_chkpwd[21644]: password check failed for user (dlara)
+Dec 11 02:57:26 servera sshd[21642]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 02:57:29 servera sshd[21642]: Failed password for dlara from 10.0.0.225 port 51041 ssh2
+Dec 11 02:57:34 servera sshd[21642]: Connection reset by 10.0.0.225 port 51041 [preauth]
+Dec 11 02:57:37 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:57:37 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:58:18 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:59:00 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:59:15 servera unix_chkpwd[21905]: password check failed for user (dlara)
+Dec 11 02:59:15 servera sshd[21903]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 02:59:17 servera sshd[21903]: Failed password for dlara from 10.0.0.225 port 51065 ssh2
+Dec 11 02:59:23 servera sshd[21903]: Connection reset by 10.0.0.225 port 51065 [preauth]
+Dec 11 02:59:25 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:00:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:00:43 servera sshd[21174]: error: no more sessions
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:02 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:35:55 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:35:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:36:06 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Dec 10 04:40:01 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 10 04:40:22 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 10 04:41:05 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:10 servera polkitd[680]: Unregistered Authentication Agent for unix-process:18814:26710286 (system bus name :1.1605, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:26:13 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:26:57 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:18 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:26 servera sshd[18493]: Received disconnect from 10.0.0.225 port 50564:11: disconnected by user
+Dec 11 01:27:26 servera sshd[18493]: Disconnected from 10.0.0.225 port 50564
+Dec 11 01:27:26 servera sshd[18489]: pam_unix(sshd:session): session closed for user dlara
+Dec 11 01:27:30 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:27:52 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:27:56 servera unix_chkpwd[19135]: password check failed for user (dlara)
+Dec 11 01:27:56 servera sshd[19133]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:27:59 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:00 servera unix_chkpwd[19136]: password check failed for user (dlara)
+Dec 11 01:28:02 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:03 servera unix_chkpwd[19137]: password check failed for user (dlara)
+Dec 11 01:28:05 servera sshd[19133]: Failed password for dlara from 10.0.0.225 port 50599 ssh2
+Dec 11 01:28:05 servera sshd[19133]: Connection reset by 10.0.0.225 port 50599 [preauth]
+Dec 11 01:28:05 servera sshd[19133]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 01:28:13 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:14 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 01:29:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session opened for user root by dlara(uid=0)
+Dec 11 02:35:26 servera sudo: pam_unix(sudo-i:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:37:35 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:51:05 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:51:21 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:51:26 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:52:46 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:53:09 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:53:14 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:53:20 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:54:07 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:54:07 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:55:00 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:55:00 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:55:08 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:55:08 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:55:29 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:55:29 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:56:58 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:56:58 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:57:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:57:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:57:18 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:57:18 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:57:26 servera unix_chkpwd[21644]: password check failed for user (dlara)
+Dec 11 02:57:26 servera sshd[21642]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 02:57:29 servera sshd[21642]: Failed password for dlara from 10.0.0.225 port 51041 ssh2
+Dec 11 02:57:34 servera sshd[21642]: Connection reset by 10.0.0.225 port 51041 [preauth]
+Dec 11 02:57:37 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:57:37 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:58:18 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 02:59:00 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 02:59:15 servera unix_chkpwd[21905]: password check failed for user (dlara)
+Dec 11 02:59:15 servera sshd[21903]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlara
+Dec 11 02:59:17 servera sshd[21903]: Failed password for dlara from 10.0.0.225 port 51065 ssh2
+Dec 11 02:59:23 servera sshd[21903]: Connection reset by 10.0.0.225 port 51065 [preauth]
+Dec 11 02:59:25 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:00:20 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:00:43 servera sshd[21174]: error: no more sessions
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:04 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:01:05 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:01:05 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 03:03:41 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)
+Dec 11 03:03:41 servera sudo: pam_unix(sudo:session): session closed for user root
+Dec 11 06:01:51 servera unix_chkpwd[22421]: password check failed for user (dlq03)
+Dec 11 06:01:51 servera sshd[22419]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlq03
+Dec 11 06:01:53 servera sshd[22419]: Failed password for dlq03 from 10.0.0.225 port 51426 ssh2
+Dec 11 06:01:59 servera sshd[22419]: Accepted password for dlq03 from 10.0.0.225 port 51426 ssh2
+Dec 11 06:01:59 servera sshd[22419]: pam_unix(sshd:session): session opened for user dlq03 by (uid=0)
+Dec 11 06:02:11 servera sudo: pam_unix(sudo:session): session opened for user root by dlara(uid=0)

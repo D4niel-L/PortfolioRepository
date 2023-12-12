@@ -1,0 +1,8 @@
+Dec 10 12:29:21 serverb sshd[6531]: Failed password for dlq03 from 10.0.0.225 port 65001 ssh2
+Dec 10 12:29:29 serverb sshd[6531]: message repeated 2 times: [ Failed password for dlq03 from 10.0.0.225 port 65001 ssh2]
+Dec 10 12:42:04 serverb sshd[6538]: Failed password for invalid user dlara03 from 10.0.0.225 port 65077 ssh2
+Dec 10 12:42:09 serverb sshd[6538]: Failed password for invalid user dlara03 from 10.0.0.225 port 65077 ssh2
+Dec 10 12:42:18 serverb sshd[6538]: Failed password for invalid user dlara03 from 10.0.0.225 port 65077 ssh2
+Dec 12 03:54:37 serverb sshd[9307]: Failed password for dlq03 from 10.0.0.88 port 37280 ssh2
+Dec 12 03:58:17 serverb sshd[9434]: Failed password for dlara from 10.0.0.246 port 41832 ssh2
+Dec 12 03:58:24 serverb sshd[9434]: Failed password for dlara from 10.0.0.246 port 41832 ssh2

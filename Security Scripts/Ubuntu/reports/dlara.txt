@@ -1,0 +1,18 @@
+Dec 10 12:41:59 serverb sshd[6538]: Invalid user dlara03 from 10.0.0.225 port 65077
+Dec 10 12:42:04 serverb sshd[6538]: Failed password for invalid user dlara03 from 10.0.0.225 port 65077 ssh2
+Dec 10 12:42:09 serverb sshd[6538]: Failed password for invalid user dlara03 from 10.0.0.225 port 65077 ssh2
+Dec 10 12:42:18 serverb sshd[6538]: Failed password for invalid user dlara03 from 10.0.0.225 port 65077 ssh2
+Dec 10 12:42:18 serverb sshd[6538]: Connection reset by invalid user dlara03 10.0.0.225 port 65077 [preauth]
+Dec 12 03:56:57 serverb groupadd[9408]: group added to /etc/group: name=dlara, GID=1001
+Dec 12 03:56:57 serverb groupadd[9408]: group added to /etc/gshadow: name=dlara
+Dec 12 03:56:57 serverb groupadd[9408]: new group: name=dlara, GID=1001
+Dec 12 03:56:57 serverb useradd[9414]: new user: name=dlara, UID=1001, GID=1001, home=/home/dlara, shell=/bin/bash, from=/dev/pts/1
+Dec 12 03:57:17 serverb passwd[9425]: pam_unix(passwd:chauthtok): password changed for dlara
+Dec 12 03:57:54 serverb chfn[9426]: changed user 'dlara' information
+Dec 12 03:58:15 serverb sshd[9434]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.246  user=dlara
+Dec 12 03:58:17 serverb sshd[9434]: Failed password for dlara from 10.0.0.246 port 41832 ssh2
+Dec 12 03:58:24 serverb sshd[9434]: Failed password for dlara from 10.0.0.246 port 41832 ssh2
+Dec 12 03:58:30 serverb sshd[9434]: Accepted password for dlara from 10.0.0.246 port 41832 ssh2
+Dec 12 03:58:30 serverb sshd[9434]: pam_unix(sshd:session): session opened for user dlara(uid=1001) by (uid=0)
+Dec 12 03:58:30 serverb systemd-logind[9053]: New session 37 of user dlara.
+Dec 12 03:58:30 serverb systemd: pam_unix(systemd-user:session): session opened for user dlara(uid=1001) by (uid=0)

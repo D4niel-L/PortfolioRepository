@@ -1,0 +1,92 @@
+Dec 10 02:50:36 serverb systemd-logind[6070]: New seat seat0.
+Dec 10 02:50:36 serverb systemd-logind[6070]: Watching system buttons on /dev/input/event0 (Power Button)
+Dec 10 02:50:36 serverb systemd-logind[6070]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Dec 10 02:50:36 serverb systemd-logind[6070]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Dec 10 03:10:01 serverb CRON[6106]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 10 03:10:01 serverb CRON[6106]: pam_unix(cron:session): session closed for user root
+Dec 10 03:17:01 serverb CRON[6113]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 10 03:17:01 serverb CRON[6113]: pam_unix(cron:session): session closed for user root
+Dec 10 03:30:01 serverb CRON[6120]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 10 03:30:01 serverb CRON[6120]: pam_unix(cron:session): session closed for user root
+Dec 10 04:17:01 serverb CRON[6135]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 10 04:17:01 serverb CRON[6135]: pam_unix(cron:session): session closed for user root
+Dec 10 06:01:21 serverb systemd-logind[6214]: New seat seat0.
+Dec 10 06:01:21 serverb systemd-logind[6214]: Watching system buttons on /dev/input/event0 (Power Button)
+Dec 10 06:01:21 serverb systemd-logind[6214]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Dec 10 06:01:21 serverb systemd-logind[6214]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Dec 11 03:48:09 serverb systemd-logind[7377]: New seat seat0.
+Dec 11 03:48:09 serverb systemd-logind[7377]: Watching system buttons on /dev/input/event0 (Power Button)
+Dec 11 03:48:09 serverb systemd-logind[7377]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Dec 11 03:48:09 serverb systemd-logind[7377]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Dec 11 06:17:01 serverb CRON[7485]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 11 06:17:01 serverb CRON[7485]: pam_unix(cron:session): session closed for user root
+Dec 11 06:24:23 serverb login[861]: pam_unix(login:session): session opened for user dlq03(uid=1000) by LOGIN(uid=0)
+Dec 11 06:24:23 serverb systemd-logind[7377]: New session 27 of user dlq03.
+Dec 11 06:24:23 serverb systemd: pam_unix(systemd-user:session): session opened for user dlq03(uid=1000) by (uid=0)
+Dec 11 06:25:01 serverb CRON[7613]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 11 06:25:01 serverb CRON[7613]: pam_unix(cron:session): session closed for user root
+Dec 12 03:52:52 serverb systemd-logind[9053]: New seat seat0.
+Dec 12 03:52:52 serverb systemd-logind[9053]: Watching system buttons on /dev/input/event0 (Power Button)
+Dec 12 03:52:52 serverb systemd-logind[9053]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Dec 12 03:52:52 serverb systemd-logind[9053]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Dec 12 03:52:52 serverb systemd-logind[9053]: New session 27 of user dlq03.
+Dec 12 03:53:12 serverb sshd[9074]: Accepted publickey for dlq03 from 10.0.0.225 port 53808 ssh2: RSA SHA256:Hhkenks+b1lJuOUn4BoPWpfRn+bPLhabYvQUWvEvVFc
+Dec 12 03:53:12 serverb sshd[9074]: pam_unix(sshd:session): session opened for user dlq03(uid=1000) by (uid=0)
+Dec 12 03:53:12 serverb systemd-logind[9053]: New session 33 of user dlq03.
+Dec 12 03:54:12 serverb sshd[9198]: Accepted password for dlq03 from 10.0.0.88 port 37276 ssh2
+Dec 12 03:54:12 serverb sshd[9198]: pam_unix(sshd:session): session opened for user dlq03(uid=1000) by (uid=0)
+Dec 12 03:54:12 serverb systemd-logind[9053]: New session 34 of user dlq03.
+Dec 12 03:54:12 serverb sshd[9246]: Received disconnect from 10.0.0.88 port 37276:11: disconnected by user
+Dec 12 03:54:12 serverb sshd[9246]: Disconnected from user dlq03 10.0.0.88 port 37276
+Dec 12 03:54:12 serverb systemd-logind[9053]: Session 34 logged out. Waiting for processes to exit.
+Dec 12 03:54:12 serverb sshd[9198]: pam_unix(sshd:session): session closed for user dlq03
+Dec 12 03:54:12 serverb systemd-logind[9053]: Removed session 34.
+Dec 12 03:54:26 serverb sshd[9248]: Accepted password for dlq03 from 10.0.0.88 port 37278 ssh2
+Dec 12 03:54:26 serverb sshd[9248]: pam_unix(sshd:session): session opened for user dlq03(uid=1000) by (uid=0)
+Dec 12 03:54:26 serverb systemd-logind[9053]: New session 35 of user dlq03.
+Dec 12 03:54:26 serverb sshd[9305]: Received disconnect from 10.0.0.88 port 37278:11: disconnected by user
+Dec 12 03:54:26 serverb sshd[9305]: Disconnected from user dlq03 10.0.0.88 port 37278
+Dec 12 03:54:26 serverb sshd[9248]: pam_unix(sshd:session): session closed for user dlq03
+Dec 12 03:54:26 serverb systemd-logind[9053]: Session 35 logged out. Waiting for processes to exit.
+Dec 12 03:54:26 serverb systemd-logind[9053]: Removed session 35.
+Dec 12 03:54:35 serverb sshd[9307]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.88  user=dlq03
+Dec 12 03:54:37 serverb sshd[9307]: Failed password for dlq03 from 10.0.0.88 port 37280 ssh2
+Dec 12 03:54:42 serverb sshd[9307]: Accepted password for dlq03 from 10.0.0.88 port 37280 ssh2
+Dec 12 03:54:42 serverb sshd[9307]: pam_unix(sshd:session): session opened for user dlq03(uid=1000) by (uid=0)
+Dec 12 03:54:42 serverb systemd-logind[9053]: New session 36 of user dlq03.
+Dec 12 03:54:42 serverb sshd[9355]: Received disconnect from 10.0.0.88 port 37280:11: disconnected by user
+Dec 12 03:54:42 serverb sshd[9355]: Disconnected from user dlq03 10.0.0.88 port 37280
+Dec 12 03:54:42 serverb sshd[9307]: pam_unix(sshd:session): session closed for user dlq03
+Dec 12 03:54:42 serverb systemd-logind[9053]: Session 36 logged out. Waiting for processes to exit.
+Dec 12 03:54:42 serverb systemd-logind[9053]: Removed session 36.
+Dec 12 03:56:16 serverb sudo: pam_unix(sudo:auth): authentication failure; logname=dlq03 uid=1000 euid=0 tty=/dev/pts/0 ruser=dlq03 rhost=  user=dlq03
+Dec 12 03:56:50 serverb sudo: pam_unix(sudo:auth): authentication failure; logname=dlq03 uid=1000 euid=0 tty=/dev/pts/0 ruser=dlq03 rhost=  user=dlq03
+Dec 12 03:56:57 serverb sudo: pam_unix(sudo:session): session opened for user root(uid=0) by dlq03(uid=1000)
+Dec 12 03:56:57 serverb groupadd[9408]: group added to /etc/group: name=dlara, GID=1001
+Dec 12 03:56:57 serverb groupadd[9408]: group added to /etc/gshadow: name=dlara
+Dec 12 03:56:57 serverb groupadd[9408]: new group: name=dlara, GID=1001
+Dec 12 03:56:57 serverb useradd[9414]: new user: name=dlara, UID=1001, GID=1001, home=/home/dlara, shell=/bin/bash, from=/dev/pts/1
+Dec 12 03:57:17 serverb passwd[9425]: pam_unix(passwd:chauthtok): password changed for dlara
+Dec 12 03:57:54 serverb chfn[9426]: changed user 'dlara' information
+Dec 12 03:57:56 serverb sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 03:58:15 serverb sshd[9434]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.246  user=dlara
+Dec 12 03:58:17 serverb sshd[9434]: Failed password for dlara from 10.0.0.246 port 41832 ssh2
+Dec 12 03:58:24 serverb sshd[9434]: Failed password for dlara from 10.0.0.246 port 41832 ssh2
+Dec 12 03:58:30 serverb sshd[9434]: Accepted password for dlara from 10.0.0.246 port 41832 ssh2
+Dec 12 03:58:30 serverb sshd[9434]: pam_unix(sshd:session): session opened for user dlara(uid=1001) by (uid=0)
+Dec 12 03:58:30 serverb systemd-logind[9053]: New session 37 of user dlara.
+Dec 12 03:58:30 serverb systemd: pam_unix(systemd-user:session): session opened for user dlara(uid=1001) by (uid=0)
+Dec 12 03:58:57 serverb sudo: pam_unix(sudo:auth): authentication failure; logname=dlq03 uid=1000 euid=0 tty=/dev/pts/1 ruser=dlq03 rhost=  user=dlq03
+Dec 12 03:59:05 serverb sudo: pam_unix(sudo:session): session opened for user root(uid=0) by dlq03(uid=1000)
+Dec 12 03:59:05 serverb sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 04:00:04 serverb sudo: pam_unix(sudo:auth): authentication failure; logname=dlq03 uid=1000 euid=0 tty=/dev/pts/1 ruser=dlq03 rhost=  user=dlq03
+Dec 12 04:00:12 serverb sudo: pam_unix(sudo:session): session opened for user root(uid=0) by dlq03(uid=1000)
+Dec 12 04:00:12 serverb sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 04:00:42 serverb sudo: pam_unix(sudo:auth): authentication failure; logname=dlq03 uid=1000 euid=0 tty=/dev/pts/1 ruser=dlq03 rhost=  user=dlq03
+Dec 12 04:01:17 serverb sudo: pam_unix(sudo:session): session opened for user root(uid=0) by dlq03(uid=1000)
+Dec 12 04:11:51 serverb sudo: pam_unix(sudo:session): session closed for user root
+Dec 12 04:13:31 serverb sudo: pam_unix(sudo:auth): authentication failure; logname=dlq03 uid=1000 euid=0 tty=/dev/pts/1 ruser=dlq03 rhost=  user=dlq03
+Dec 12 04:13:34 serverb sudo: pam_unix(sudo:auth): conversation failed
+Dec 12 04:13:34 serverb sudo: pam_unix(sudo:auth): auth could not identify password for [dlq03]
+Dec 12 04:14:14 serverb sudo: pam_unix(sudo:session): session opened for user root(uid=0) by dlq03(uid=1000)
+Dec 12 04:14:14 serverb sudo: pam_unix(sudo:session): session opened for user root(uid=0) by dlq03(uid=0)

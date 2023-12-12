@@ -1,0 +1,5 @@
+Dec 11 06:01:51 servera unix_chkpwd[22421]: password check failed for user (dlq03)
+Dec 11 06:01:51 servera sshd[22419]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=10.0.0.225  user=dlq03
+Dec 11 06:01:53 servera sshd[22419]: Failed password for dlq03 from 10.0.0.225 port 51426 ssh2
+Dec 11 06:01:59 servera sshd[22419]: Accepted password for dlq03 from 10.0.0.225 port 51426 ssh2
+Dec 11 06:01:59 servera sshd[22419]: pam_unix(sshd:session): session opened for user dlq03 by (uid=0)
